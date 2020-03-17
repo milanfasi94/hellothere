@@ -1,0 +1,7 @@
+C:\Users\Milán\Desktop\githeloworld\HelloWorldfornoreason\bin\Debug\HelloWorldfornoreason.exe.config
+C:\Users\Milán\Desktop\githeloworld\HelloWorldfornoreason\bin\Debug\HelloWorldfornoreason.exe
+C:\Users\Milán\Desktop\githeloworld\HelloWorldfornoreason\bin\Debug\HelloWorldfornoreason.pdb
+C:\Users\Milán\Desktop\githeloworld\HelloWorldfornoreason\obj\Debug\HelloWorldfornoreason.csprojAssemblyReference.cache
+C:\Users\Milán\Desktop\githeloworld\HelloWorldfornoreason\obj\Debug\HelloWorldfornoreason.csproj.CoreCompileInputs.cache
+C:\Users\Milán\Desktop\githeloworld\HelloWorldfornoreason\obj\Debug\HelloWorldfornoreason.exe
+C:\Users\Milán\Desktop\githeloworld\HelloWorldfornoreason\obj\Debug\HelloWorldfornoreason.pdb
