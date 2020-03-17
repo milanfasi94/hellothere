@@ -10,7 +10,7 @@ namespace HelloWorldfornoreason
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World for no reason!");
+            Console.WriteLine("Hello World for no reason! & for fun");
             Console.ReadKey();
         }
     }
